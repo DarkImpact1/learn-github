@@ -10,4 +10,11 @@ def learn_git_with_me():
     print("For example:")  
     print("1. git init")
     print("2. git add .")
-    
+    # adding a comment to the commit message
+    print("3. git commit -m 'Initial commit'")
+    print("4. git push origin main")
+    print("5. git pull origin main")
+    print("6. git branch -a")
+    print("7. git checkout -b new-branch")
+    print("8. git merge new-branch")
+    print("9. git status")  
