@@ -15,6 +15,10 @@ def learn_git_with_me():
     print("4. git push origin main")
     print("5. git pull origin main")
     print("6. git branch -a")
+    # changing few things using subMain branch
+    print("This is a new line added in the subMain branch.")
+    print("This is another line added in the subMain branch.")
+    print("This is a new line added in the subMain branch.")
     # adding a comment to the commit message
     print("3. git commit -m 'Initial commit'")
     print("4. git push origin main")
