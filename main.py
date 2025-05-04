@@ -10,15 +10,27 @@ def learn_git_with_me():
     print("For example:")  
     print("1. git init")
     print("2. git add .")
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> SSPI1234
     # adding using SSPI1234
     print("3. git commit -m 'Initial commit'")
     print("4. git push origin main")
     print("5. git pull origin main")
     print("6. git branch -a")
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> SSPI1234
     # changing few things using subMain branch
     print("This is a new line added in the subMain branch.")
     print("This is another line added in the subMain branch.")
     print("This is a new line added in the subMain branch.")
+<<<<<<< HEAD
+=======
+>>>>>>> 10c3242408f0670c75ae9e99ff5d5cd3fc129c24
+>>>>>>> SSPI1234
     # adding a comment to the commit message
     print("3. git commit -m 'Initial commit'")
     print("4. git push origin main")
